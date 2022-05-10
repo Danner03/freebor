@@ -1,0 +1,56 @@
+🍜Bot Iniciado⛩
+Bienvenido a mi bot de descarga
+
+💡 Como Descargar
+
+1. Envía el enlace directo o comparte desde Telegram el archivo que quieres descargar usando el bot @DirectLinkGeneratorbot.
+2. Ya terminada la descarga usar el TXT iniciar seción con la cuenta que se le dio y acceder a los planes de aprendizaje.
+3. Los comando para configurar el bot son:
+
+/start ⛩Iniciar Bot⛩
+
+/tutorial 📖Abrir el Tutorial
+
+/my 👤Información 
+
+/files 📋Archivos subidos
+
+/dir 📂Carpeta a subir
+
+/about Info del bot
+
+/host ⚙️Configura URL de la nube ☁️
+
+/account ⚙️Configura (usuario,contraseña)
+
+/repo 📝Repo ID (Dejan en el #4)
+
+/zips ⚙️Configura Tamaños de los archivos📦
+
+/proxy 💡Activa Proxy (Más velocidad)
+
+/search_proxy 💡El bot busca un proxy
+
+/crypt 💡Encrypta el proxy
+
+/decrypt 💡Descrypta un proxy
+
+/token_on ✳️Avilita la descarga de archivos de nubes que no dan token
+
+/token_off ✳️Desavilita la opción
+
+/uptype ⏫Cambia subda de los archivos (evidence,draft,blog,calendar,perfil)
+
+/cloud ☁️Cambia tipo (moodle o cloud)
+
+🚫Comandos de Administrador🚫
+
+/add ✳️Permite acceso a un usuario
+/admin ✳️Poner de admin a un usuario
+/preview ✳️Para que un usuario pueda ver el bot pero sin poder hacer o subir contenido
+/ban 🚫Ban vete la tu casa chaval
+/db 🗂Obtener base de datos
+
+🔗 Enlaces soportados Youtube, y Enlaces directos
+
+✳️Contactar con el Admin en caso de problemas✳️

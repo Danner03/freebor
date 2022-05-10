@@ -1,0 +1,2 @@
+User0075_69={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eduvirtual.uho.edu.cu/', 'moodle_repo_id': 3, 'moodle_user': 'antoniobs', 'moodle_password': '1234567e', 'isadmin': 1, 'zips': 2000, 'uploadtype': 'evidence', 'proxy': '', 'path': '/', 'tokenize':0, 'preview': 0}
+User0075_69_2={'dir': '', 'cloudtype': 'moodle', 'moodle_host': 'https://eduvirtual.uho.edu.cu/', 'moodle_repo_id': 3, 'moodle_user': 'antoniobs', 'moodle_password': '1234567e', 'isadmin': 1, 'zips': 2000, 'uploadtype': 'calendar', 'proxy': '', 'path': '/', 'tokenize':0, 'preview': 1}
